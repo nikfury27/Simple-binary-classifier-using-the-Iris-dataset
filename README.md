@@ -38,5 +38,8 @@ This project demonstrates how to build a simple binary classification model usin
    ```
 4. Run the Jupyter Notebook or Python script.
 
+## Acknowledgement
+- A heartfelt thanks to our mentor, [**Dr. Victor A.I**](https://github.com/Victor-Ikechukwu), for his invaluable guidance and support throughout this project.
+
 ## 📈 Results
 - Confusion Matrix and other metrics are provided in the notebook.
